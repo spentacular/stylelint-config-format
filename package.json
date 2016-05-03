@@ -1,0 +1,32 @@
+{
+  "name": "stylelint-config-format",
+  "version": "0.0.1",
+  "description": "Stylelint config for formatting based on Idiomatic and mdo codeguide",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "standard *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spentacular/stylelint-config-format.git"
+  },
+  "keywords": [
+    "stylelint",
+    "stylelint-config",
+    "idiomatic",
+    "declare",
+    "format"
+  ],
+  "author": "Spencer Hamm <spentacular@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spentacular/stylelint-config-format/issues"
+  },
+  "homepage": "https://github.com/spentacular/stylelint-config-format#readme",
+  "devDependencies": {
+    "standard": "^7.0.0"
+  }
+}
