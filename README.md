@@ -1,5 +1,7 @@
 # stylelint-config-format
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/spentacular/stylelint-config-format.svg)](https://greenkeeper.io/)
+
 Stylelint configuration for formatting CSS. Based on [@mdo codeguide](http://codeguide.co/#css-declaration-order) & [Idiomatic CSS](https://github.com/necolas/idiomatic-css#declaration-order). Also uses [stylelint-config-standard](https://github.com/stylelint/stylelint-config-standard) for default configuration.
 
 ## Declaration Order
