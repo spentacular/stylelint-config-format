@@ -27,6 +27,6 @@
   },
   "homepage": "https://github.com/spentacular/stylelint-config-format#readme",
   "devDependencies": {
-    "standard": "^7.0.0"
+    "standard": "^10.0.2"
   }
 }
